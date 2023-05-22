@@ -1,4 +1,4 @@
-# JavaScript blog assignment (inueron)
+# JavaScript blog assignment (ineuron)
 
 A basic blog application in html, tailwind css and javascript.
 
